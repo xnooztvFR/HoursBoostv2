@@ -1,0 +1,37 @@
+{
+  "EnableChatResponse": true,
+  "ChatResponses": [
+    "[Message Automatique / Automated Message] Ce logiciel developper par moi même, me permet de booster mes heures CSGO, je suis donc absent pour le moment / This Software made by me, this software helps me boosting my csgo hours, im not here for the moment contact me later"
+  ],
+  "OnlyReplyIfIdling": true,
+  "WaitBetweenReplies": false,
+  "RestartGames": false,
+  "RestartGamesAtRandom": true,
+  "ForceOnlineStatus": true,
+  "CheckForUpdates": true,
+  "ClearRecentlyPlayedOnExit": false,
+  "SaveAppIdleHistory": true,
+  "JoinSteamGroup": true,
+  "SaveLoginCookies": true,
+  "HideToTraybar": false,
+  "OnlyIdleGamesWithCertainMinutes": false,
+  "NumOnlyIdleGamesWithCertainMinutes": 120,
+  "NumGamesIdleWhenNoCards": 25,
+  "RestartGamesTime": 54,
+  "WaitBetweenRepliesTime": 10,
+  "IdleCardsWithMostValue": true,
+  "VACWarningDisplayed": true,
+  "ChatResponseTipDisplayed": true,
+  "ShowedDiscordInfo": true,
+  "WebSession": {
+    "SteamMachineAuth": "F78614687517D732ADA04A41838CA91387EC6F02",
+    "SessionId": "ee6c5285ade45ea9dc88be67",
+    "SteamLogin": "76561198823941849%7C%7C4AA4F76242E48BDEC9E9B4E46E9D595421CC4F24",
+    "SteamRememberLogin": "76561198823941849%7C%7C7cef0e4f65d32b46c9e777c18241b2ab",
+    "SteamParental": ""
+  },
+  "GameHistoryIds": [
+    819680
+  ],
+  "BlacklistedCardGames": []
+}

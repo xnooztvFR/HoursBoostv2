@@ -1,0 +1,22 @@
+[Main 5/4/2018 11:09:13] Info: Redemarrage automatique des jeux est actuellement activé toutes les 54 minutes.
+[Main 5/4/2018 11:09:13] Info: Landement de 1 avec la session Idle
+[Main 5/4/2018 11:10:48] Info: Application Counter-Strike: Global Offensive fermer
+[Main 5/4/2018 11:10:48] Info: Arret de la session None avec 0 erreurs.
+[Main 5/4/2018 11:13:00] Info: Chargement des badges
+[Main 5/4/2018 11:13:02] Info: 0 traitée badges de la page 1.
+[Main 5/4/2018 11:13:02] Warn: Nous n'avons pas chargé de badges. Quelque chose ne va pas.
+[Main 5/4/2018 11:13:46] Info: Chargement des badges
+[Main 5/4/2018 11:13:47] Info: 0 traitée badges de la page 1.
+[Main 5/4/2018 11:13:47] Warn: Nous n'avons pas chargé de badges. Quelque chose ne va pas.
+[Main 5/4/2018 11:13:58] Info: Redemarrage automatique des jeux est actuellement activé toutes les 54 minutes.
+[Main 5/4/2018 11:13:58] Info: Landement de 1 avec la session Idle
+[Main 5/4/2018 11:14:03] Info: Application 7 Days to Die Dedicated Server fermer
+[Main 5/4/2018 11:14:03] Info: Arret de la session None avec 0 erreurs.
+[Main 5/4/2018 11:14:26] Info: Redemarrage automatique des jeux est actuellement activé toutes les 54 minutes.
+[Main 5/4/2018 11:14:26] Info: Landement de 1 avec la session Idle
+[Main 5/4/2018 11:14:33] Info: Application Unreal Development Kit fermer
+[Main 5/4/2018 11:14:33] Info: Arret de la session None avec 0 erreurs.
+[Main 5/4/2018 11:15:18] Info: Redemarrage automatique des jeux est actuellement activé toutes les 54 minutes.
+[Main 5/4/2018 11:15:18] Info: Landement de 1 avec la session Idle
+[Main 5/4/2018 11:15:41] Info: Application Landwars fermer
+[Main 5/4/2018 11:15:41] Info: Arret de la session None avec 0 erreurs.
